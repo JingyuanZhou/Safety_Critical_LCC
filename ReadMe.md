@@ -1,4 +1,4 @@
-### ReadMe
+### ITSC 2022 paper: Safety Critical Control of Mixed-autonomy Traffic via a Single Autonomous Vehicle
 
 1. car_following_lcc.m: 主程序，leading cruise control的仿真
 
