@@ -20,4 +20,6 @@
 
 10. state and disturbance observer文件夹：LCC中state observer和disturbance observer的设计
 
-    
+** Cite **: Zhou J, Yu H. Safety Critical Control of Mixed-autonomy Traffic via a Single Autonomous Vehicle[C]//2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2022: 3089-3094.
+
+** url **:https://ieeexplore.ieee.org/abstract/document/9921901/
